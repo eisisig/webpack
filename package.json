@@ -1,12 +1,18 @@
 {
   "name": "@eisisig/start-webpack",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Webpack task for Start",
-  "keywords": [ "start", "start-task", "webpack" ],
+  "keywords": [
+    "start",
+    "start-task",
+    "webpack"
+  ],
   "homepage": "https://github.com/start-runner/webpack",
   "repository": "start-runner/webpack",
   "author": "Kir Belevich <kir@soulshine.in> (https://github.com/deepsweet)",
-  "files": [ "build/" ],
+  "files": [
+    "build/"
+  ],
   "main": "build/index.js",
   "dependencies": {
     "webpack": "^2.1.0-beta.27",
