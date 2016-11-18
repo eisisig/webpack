@@ -1,5 +1,5 @@
 {
-  "name": "@eisisig/start-webpack",
+  "name": "start-webpack",
   "version": "2.0.1",
   "description": "Webpack task for Start",
   "keywords": [
