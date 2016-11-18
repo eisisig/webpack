@@ -38,7 +38,7 @@
   "scripts": {
     "start": "start-runner -p start-start-preset",
     "prepush": "npm start prepush",
-    "prepublish": "npm start build"
+    "prepublish": "babel lib --out-dir build"
   },
   "engines": {
     "node": ">=0.12.0",
