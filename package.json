@@ -13,7 +13,7 @@
   "files": [
     "build/"
   ],
-  "main": "build/index.js",
+  "main": "lib/index.js",
   "dependencies": {
     "webpack": "^2.1.0-beta.27",
     "webpack-dev-server": "^2.1.0-beta.11",
